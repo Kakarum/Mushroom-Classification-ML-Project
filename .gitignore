@@ -1,0 +1,31 @@
+# Bytecode e cache Python
+__pycache__/
+*.py[cod]
+*.pyo
+*$py.class
+
+# Notebook Jupyter checkpoint
+.ipynb_checkpoints/
+
+# Ambienti virtuali (se li usi)
+venv/
+.venv/
+
+# File di log o temporanei
+*.log
+*.tmp
+
+# File di sistema
+.DS_Store
+Thumbs.db
+
+# File e cartelle di editor (Visual Studio Code, PyCharm, ecc.)
+.vscode/
+.idea/
+
+# Dataset locale (aggiungi il nome solo se non vuoi caricare i dati)
+# MushroomDataset/
+
+# File di configurazione privati (es. API key o variabili d'ambiente)
+.env
+config.json
